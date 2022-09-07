@@ -1,2 +1,2 @@
 # Guest-Manager
-A c++ project base Polymorphism
+A c++ project base onPolymorphism
